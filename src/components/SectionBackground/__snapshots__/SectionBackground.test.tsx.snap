@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionBackground /> should render with barkground dark 1`] = `<div />`;
+
+exports[`<SectionBackground /> should render with barkground light 1`] = `<div />`;

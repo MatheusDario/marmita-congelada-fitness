@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridContent /> should render grid content 1`] = `<div />`;
+
+exports[`<GridContent /> should render grid content with no background 1`] = `<div />`;
