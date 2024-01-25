@@ -23,7 +23,7 @@ export const GridTwoColumns = ({
     <SectionBackground $background={$background} $sectionid={$sectionid}>
       <Styled.Container $background={$background}>
         <Styled.TextContainer>
-          <Heading as="h2" $colordark={!$background}>
+          <Heading as="h2" size="big" $colordark={!$background}>
             {title}
           </Heading>
           <Text>{text}</Text>
