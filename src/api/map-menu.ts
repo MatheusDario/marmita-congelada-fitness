@@ -8,8 +8,10 @@ export const mapMenu = (menu = {} as any): PageData['menu'] => {
     open_in_new_tab: newtab = false,
     logo_text: text = '',
     //logo: { data: { attributes: { url: srcimg = '' } = '' } = '' } = '',
-    menu_links: links = [],
+    //menu_links: links = [],
   } = menu;
+
+  const links = menu.links || menu.menu_links || menu.menu || [];
 
   const srcimg =
     menu.logo_text && menu.logo.data.attributes.url

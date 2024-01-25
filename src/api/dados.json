@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "id": 2,
+      "id": 4,
       "attributes": {
-        "title": "Lading Page",
-        "slug": "landing-page",
-        "createdAt": "2023-12-09T23:14:38.288Z",
-        "updatedAt": "2024-01-13T16:10:42.697Z",
-        "publishedAt": "2023-12-09T23:14:40.266Z",
+        "title": "Curso de Marmitas Fitness | Marmitas Congeladas ",
+        "slug": "marmitas-fitness",
+        "createdAt": "2024-01-23T20:46:38.525Z",
+        "updatedAt": "2024-01-23T22:16:49.549Z",
+        "publishedAt": "2024-01-23T20:46:51.589Z",
         "footer_text": [
           {
             "type": "paragraph",
             "children": [
               {
-                "text": "Desenvolvido por Matheus Dario",
+                "text": "Política de Privacidade | Termo de Uso | Copyright Marmita Fitness Congelada © 2019/2024. Todos os direitos reservados.",
                 "type": "text"
               }
             ]
@@ -21,422 +21,789 @@
         ],
         "sections": [
           {
-            "id": 1,
+            "id": 3,
             "__component": "section.section-two-columns",
-            "title": "LADING PAGE DESENVOLVIDA EM HTML, CSS E JS",
-            "description": "One domain where we see high value is in training LLMs on reference documentation, enabling developers to more quickly find solutions or get answers about the purpose or behavior of code snippets. MDNs mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it. We see a path forward to “overlay” useful AI-driven helpers on top of MDNs canonical web dev documentation to aid developers in new ways. Of course, human-authored canonica",
+            "title": " Domine a Arte de Vender Marmitas Fitness Congeladas e Transforme sua Paixão em Lucro!",
+            "description": "Descubra o fascinante universo de Vender Marmitas Fitness Congeladas e desbloqueie o potencial lucrativo de uma tendência que conquistou corações e paladares! Em nossa jornada gastronômica, exploraremos não apenas a arte culinária por trás dessas refeições saudáveis e deliciosas, mas também revelaremos estratégias infalíveis para transformar sua paixão pela comida em um negócio próspero. Prepare-se para mergulhar em um mundo onde o sabor se encontra com o empreendedorismo, e aprenda a criar, comercializar e vender suas próprias marmitas fitness congeladas, proporcionando não apenas nutrição, mas também uma experiência gastronômica que conquistará clientes ávidos por praticidade e bem-estar. Deixe seu talento culinário brilhar enquanto conquista o mercado de alimentação saudável!",
+            "Video": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tHB9szHlOfs?si=tz5Z0TmhfXY0oQdv\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
             "image": {
               "data": {
-                "id": 2,
+                "id": 21,
                 "attributes": {
-                  "name": "barber.svg",
+                  "name": "marmita01-logo.png",
                   "alternativeText": null,
                   "caption": null,
-                  "width": 1144,
-                  "height": 715,
-                  "formats": null,
-                  "hash": "barber_63ec0556f4",
-                  "ext": ".svg",
-                  "mime": "image/svg+xml",
-                  "size": 20.22,
-                  "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702163614/barber_63ec0556f4.svg",
+                  "width": 350,
+                  "height": 350,
+                  "formats": {
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706045321/thumbnail_marmita01_logo_eadacdd75d.png",
+                      "hash": "thumbnail_marmita01_logo_eadacdd75d",
+                      "mime": "image/png",
+                      "name": "thumbnail_marmita01-logo.png",
+                      "path": null,
+                      "size": 47.47,
+                      "width": 156,
+                      "height": 156,
+                      "provider_metadata": {
+                        "public_id": "thumbnail_marmita01_logo_eadacdd75d",
+                        "resource_type": "image"
+                      }
+                    }
+                  },
+                  "hash": "marmita01_logo_eadacdd75d",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 58.11,
+                  "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706045321/marmita01_logo_eadacdd75d.png",
                   "previewUrl": null,
                   "provider": "cloudinary",
                   "provider_metadata": {
-                    "public_id": "barber_63ec0556f4",
+                    "public_id": "marmita01_logo_eadacdd75d",
                     "resource_type": "image"
                   },
-                  "createdAt": "2023-12-09T23:13:35.761Z",
-                  "updatedAt": "2023-12-09T23:13:35.761Z"
+                  "createdAt": "2024-01-23T21:28:42.260Z",
+                  "updatedAt": "2024-01-23T21:28:42.260Z"
                 }
               }
             },
             "metada": {
-              "id": 1,
-              "name": "intro",
-              "section_id": "intro",
-              "background": true
-            }
-          },
-          {
-            "id": 1,
-            "__component": "section.section-content",
-            "title": "TOP 3 TRABALHOS",
-            "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus quibusdam laborum officiis iste beatae obcaecati repellat, et veritatis provident culpa iusto id sequi corrupti magni repellendus, placeat corporis esse architecto.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati sequi facilis, autem, cupiditate consequuntur, rem accusantium impedit nesciunt architecto corporis possimus! Sed laborum veniam quod voluptatem expedita, quasi ratione possimus!\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates sunt explicabo dignissimos. Distinctio autem praesentium corporis suscipit nostrum, beatae asperiores reprehenderit quasi ratione, vitae minus iusto ipsa reiciendis et! Obcaecati?",
-            "metada": {
-              "id": 2,
-              "name": "top3",
-              "section_id": "top3jobs",
+              "id": 11,
+              "name": "inicio",
+              "section_id": "inicio",
               "background": false
             }
           },
           {
-            "id": 1,
-            "__component": "section.section-grid",
-            "title": "DESCRIÇÃO DOS PRINCIPAIS TRABALHOS",
-            "description": "Uma breve descrição do asunto que está por vim",
-            "metada": {
-              "id": 3,
-              "name": "description",
-              "section_id": "description",
-              "background": true
-            },
-            "text_grid": [
-              {
-                "id": 1,
-                "title": "Titulo 1",
-                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus quibusdam laborum officiis iste beatae obcaecati repellat, et veritatis provident culpa iusto id sequi corrupti magni repellendus, placeat corporis esse architecto."
-              },
-              {
-                "id": 2,
-                "title": "Titulo 2",
-                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus quibusdam laborum officiis iste beatae obcaecati repellat, et veritatis provident culpa iusto id sequi corrupti magni repellendus, placeat corporis esse architecto."
-              },
-              {
-                "id": 3,
-                "title": "Titulo 3",
-                "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus quibusdam laborum officiis iste beatae obcaecati repellat, et veritatis provident culpa iusto id sequi corrupti magni repellendus, placeat corporis esse architecto."
+            "id": 4,
+            "__component": "section.section-two-columns",
+            "title": "Desvende os Segredos Culinários: Aprenda a Fazer Marmitas Perfeitas e Inicie Seu Negócio de Sucesso do Zero!",
+            "description": "Você já sonhou em transformar sua paixão pela culinária em um empreendimento próspero? Embarque conosco em uma jornada emocionante, onde mergulharemos fundo no universo das marmitas perfeitas e desvendaremos todos os passos para iniciar um negócio de sucesso a partir do zero.\n\nAprenderemos juntos as técnicas refinadas que transformam ingredientes simples em refeições deliciosas e balanceadas. Desde a escolha dos melhores alimentos até os segredos das combinações de sabores, você se tornará um mestre na arte de criar marmitas que conquistam paladares exigentes.\n\nMas não para por aí! Vamos além da cozinha e explorar as estratégias de empreendedorismo que farão seu negócio decolar. Descubra como planejar, lançar e promover suas marmitas de forma eficaz, conquistando clientes e construindo uma base sólida para o seu sucesso.\n\nNão importa se você é um entusiasta da culinária ou um empreendedor iniciante, este curso abrangente oferece o conhecimento prático e as habilidades essenciais para transformar suas marmitas em um negócio de sucesso. Prepare-se para dar vida ao seu sonho e deixar um sabor irresistível no mundo dos negócios gastronômicos. Vamos começar essa jornada culinária e empreendedora juntos!\"",
+            "Video": null,
+            "image": {
+              "data": {
+                "id": 18,
+                "attributes": {
+                  "name": "img-marmita-fit-01.png",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 545,
+                  "height": 513,
+                  "formats": {
+                    "small": {
+                      "ext": ".png",
+                      "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706043257/small_img_marmita_fit_01_2f734215a6.png",
+                      "hash": "small_img_marmita_fit_01_2f734215a6",
+                      "mime": "image/png",
+                      "name": "small_img-marmita-fit-01.png",
+                      "path": null,
+                      "size": 459.13,
+                      "width": 500,
+                      "height": 471,
+                      "provider_metadata": {
+                        "public_id": "small_img_marmita_fit_01_2f734215a6",
+                        "resource_type": "image"
+                      }
+                    },
+                    "thumbnail": {
+                      "ext": ".png",
+                      "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706043256/thumbnail_img_marmita_fit_01_2f734215a6.png",
+                      "hash": "thumbnail_img_marmita_fit_01_2f734215a6",
+                      "mime": "image/png",
+                      "name": "thumbnail_img-marmita-fit-01.png",
+                      "path": null,
+                      "size": 57.09,
+                      "width": 166,
+                      "height": 156,
+                      "provider_metadata": {
+                        "public_id": "thumbnail_img_marmita_fit_01_2f734215a6",
+                        "resource_type": "image"
+                      }
+                    }
+                  },
+                  "hash": "img_marmita_fit_01_2f734215a6",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "size": 127.92,
+                  "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706043256/img_marmita_fit_01_2f734215a6.png",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "img_marmita_fit_01_2f734215a6",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2024-01-23T20:54:17.739Z",
+                  "updatedAt": "2024-01-23T20:54:17.739Z"
+                }
               }
-            ],
-            "image_grid": []
+            },
+            "metada": {
+              "id": 12,
+              "name": "sobre",
+              "section_id": "sobre",
+              "background": true
+            }
           },
           {
-            "id": 2,
-            "__component": "section.section-grid",
-            "title": "GALERIA",
-            "description": "Breve descrição",
+            "id": 5,
+            "__component": "section.section-content",
+            "title": "Veja o que você vai aprender com o nosso curso",
+            "content": "Modulo 1 - Montar e Iniciar seu Négocio de Sucesso:\n\nAula 01 - Os 08 Pilares Principais do Negócio\nAula 02 - Estrutura & Investimento\nAula 03 - Gestão de Estoque & Matéria Prima\nAula 04 - Organização de Compras dos Produtos\nAula 05 - Boas Práticas de Manipulação dos Alimentos\nAula 06 - Técnicas de Definição de Cardápio\nAula 07 - Cuidados na hora do preparo das marmitas\nAula 08 - Técnicas & Atenção com a Montagem das Marmitas\nAula 09 - Técnicas & Cuidados com as Embalagens & Transporte\nAula 10 - Como Montar um Disk Marmita\nAula 11 - Veiculo Para Fazer as Entregas\nAula 12 - Como Regularizar seu Negócio\nAula 13 -  Organização Financeira\nAula 14 - Como conseguir clientes\nAula 15 - Marketing Digital na Divulgação do Negócio\n\nModulo 2 -  Técnica de congelamento e descongelamento:\nAula 01 - Técnica de congelamento e descongelamento dos alimentos de maneira correta\n\nMódulo 3 - Rotulagem Nutricional:\nAula 01 - Tabela Nutricional\n\nMódulo 4 - Receitas Low Carb:\n\nAula 01 - Filé de Frango com Crosta de Castanha de Caju e Legumes\nAula 02 - Filé Mignon ao Molho de Chimichurri e Arroz Fake de Couve Flor\nAula 03 - Contra Filé Grelhado com Creme de Brócolis e Palmito\nAula 04 - Espaguete de Pupunha com Camarão\nAula 05 - Filé de Tilápia Grelhado com Pimentões e Abóbora Assada\nAula 06 - Lasanha de Abobrinha á Bolonhesa\nAula 07 - Strogonoff de Frango com Arroz de Couve-Flor\nAula 08 - Carne de Panela com Pimentão e Legumes \nAula 09 - Espaguete de Abobrinha com Molho á Bolonhesa\nAula 10 - Berinjela Recheada com Carne Moída\nAula 11 - Lombo Suíno com Tomate Cereja e Berinjela Grelhada\nAula 12 - Omelete de Forno\nAula 13 - 201 Receitas LOW CARB",
             "metada": {
-              "id": 4,
-              "name": "gallery",
-              "section_id": "gallery",
+              "id": 13,
+              "name": "conteudo",
+              "section_id": "conteudo",
               "background": false
+            }
+          },
+          {
+            "id": 5,
+            "__component": "section.section-grid",
+            "title": "Veja o que nossas alunas dizem sobre o curso!",
+            "description": "Confira os depoimentos de algumas das nossas alunas",
+            "metada": {
+              "id": 15,
+              "name": "depoimentos",
+              "section_id": "depoimentos",
+              "background": true
             },
             "text_grid": [],
             "image_grid": [
               {
-                "id": 1,
+                "id": 3,
                 "images": {
                   "data": [
                     {
-                      "id": 5,
+                      "id": 16,
                       "attributes": {
-                        "name": "ferrari.jpg",
-                        "alternativeText": "ferrari",
+                        "name": "aluno5.webp",
+                        "alternativeText": null,
                         "caption": null,
-                        "width": 360,
-                        "height": 360,
+                        "width": 1080,
+                        "height": 1250,
                         "formats": {
-                          "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/thumbnail_ferrari_b04d5b11bc.jpg",
-                            "hash": "thumbnail_ferrari_b04d5b11bc",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_ferrari.jpg",
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160694/large_aluno5_3fd7fbe075.webp",
+                            "hash": "large_aluno5_3fd7fbe075",
+                            "mime": "image/webp",
+                            "name": "large_aluno5.webp",
                             "path": null,
-                            "size": 9.12,
-                            "width": 156,
-                            "height": 156,
+                            "size": 22.66,
+                            "width": 864,
+                            "height": 1000,
                             "provider_metadata": {
-                              "public_id": "thumbnail_ferrari_b04d5b11bc",
+                              "public_id": "large_aluno5_3fd7fbe075",
                               "resource_type": "image"
                             }
-                          }
-                        },
-                        "hash": "ferrari_b04d5b11bc",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 34.17,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/ferrari_b04d5b11bc.jpg",
-                        "previewUrl": null,
-                        "provider": "cloudinary",
-                        "provider_metadata": {
-                          "public_id": "ferrari_b04d5b11bc",
-                          "resource_type": "image"
-                        },
-                        "createdAt": "2023-12-10T00:19:25.119Z",
-                        "updatedAt": "2024-01-01T15:53:27.083Z"
-                      }
-                    },
-                    {
-                      "id": 6,
-                      "attributes": {
-                        "name": "bmw.jpg",
-                        "alternativeText": "bmw",
-                        "caption": null,
-                        "width": 360,
-                        "height": 360,
-                        "formats": {
-                          "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/thumbnail_bmw_653b2050bc.jpg",
-                            "hash": "thumbnail_bmw_653b2050bc",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_bmw.jpg",
-                            "path": null,
-                            "size": 7.83,
-                            "width": 156,
-                            "height": 156,
-                            "provider_metadata": {
-                              "public_id": "thumbnail_bmw_653b2050bc",
-                              "resource_type": "image"
-                            }
-                          }
-                        },
-                        "hash": "bmw_653b2050bc",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 35.88,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/bmw_653b2050bc.jpg",
-                        "previewUrl": null,
-                        "provider": "cloudinary",
-                        "provider_metadata": {
-                          "public_id": "bmw_653b2050bc",
-                          "resource_type": "image"
-                        },
-                        "createdAt": "2023-12-10T00:19:25.203Z",
-                        "updatedAt": "2024-01-01T15:53:19.175Z"
-                      }
-                    },
-                    {
-                      "id": 7,
-                      "attributes": {
-                        "name": "lamborginhi.jpg",
-                        "alternativeText": "lamborginhi",
-                        "caption": null,
-                        "width": 480,
-                        "height": 360,
-                        "formats": {
-                          "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/thumbnail_lamborginhi_aa4b0d94c3.jpg",
-                            "hash": "thumbnail_lamborginhi_aa4b0d94c3",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_lamborginhi.jpg",
-                            "path": null,
-                            "size": 9.12,
-                            "width": 208,
-                            "height": 156,
-                            "provider_metadata": {
-                              "public_id": "thumbnail_lamborginhi_aa4b0d94c3",
-                              "resource_type": "image"
-                            }
-                          }
-                        },
-                        "hash": "lamborginhi_aa4b0d94c3",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 32.36,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/lamborginhi_aa4b0d94c3.jpg",
-                        "previewUrl": null,
-                        "provider": "cloudinary",
-                        "provider_metadata": {
-                          "public_id": "lamborginhi_aa4b0d94c3",
-                          "resource_type": "image"
-                        },
-                        "createdAt": "2023-12-10T00:19:25.265Z",
-                        "updatedAt": "2024-01-01T15:53:11.488Z"
-                      }
-                    },
-                    {
-                      "id": 8,
-                      "attributes": {
-                        "name": "mercedes.jpg",
-                        "alternativeText": "mercedes",
-                        "caption": null,
-                        "width": 540,
-                        "height": 360,
-                        "formats": {
+                          },
                           "small": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/small_mercedes_cd10b1e920.jpg",
-                            "hash": "small_mercedes_cd10b1e920",
-                            "mime": "image/jpeg",
-                            "name": "small_mercedes.jpg",
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno5_3fd7fbe075.webp",
+                            "hash": "small_aluno5_3fd7fbe075",
+                            "mime": "image/webp",
+                            "name": "small_aluno5.webp",
                             "path": null,
-                            "size": 39.99,
-                            "width": 500,
-                            "height": 333,
+                            "size": 11.53,
+                            "width": 432,
+                            "height": 500,
                             "provider_metadata": {
-                              "public_id": "small_mercedes_cd10b1e920",
+                              "public_id": "small_aluno5_3fd7fbe075",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/medium_aluno5_3fd7fbe075.webp",
+                            "hash": "medium_aluno5_3fd7fbe075",
+                            "mime": "image/webp",
+                            "name": "medium_aluno5.webp",
+                            "path": null,
+                            "size": 17.86,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno5_3fd7fbe075",
                               "resource_type": "image"
                             }
                           },
                           "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/thumbnail_mercedes_cd10b1e920.jpg",
-                            "hash": "thumbnail_mercedes_cd10b1e920",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_mercedes.jpg",
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno5_3fd7fbe075.webp",
+                            "hash": "thumbnail_aluno5_3fd7fbe075",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno5.webp",
                             "path": null,
-                            "size": 11.04,
-                            "width": 234,
+                            "size": 2.21,
+                            "width": 135,
                             "height": 156,
                             "provider_metadata": {
-                              "public_id": "thumbnail_mercedes_cd10b1e920",
+                              "public_id": "thumbnail_aluno5_3fd7fbe075",
                               "resource_type": "image"
                             }
                           }
                         },
-                        "hash": "mercedes_cd10b1e920",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 46.83,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/mercedes_cd10b1e920.jpg",
+                        "hash": "aluno5_3fd7fbe075",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 30.08,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno5_3fd7fbe075.webp",
                         "previewUrl": null,
                         "provider": "cloudinary",
                         "provider_metadata": {
-                          "public_id": "mercedes_cd10b1e920",
+                          "public_id": "aluno5_3fd7fbe075",
                           "resource_type": "image"
                         },
-                        "createdAt": "2023-12-10T00:19:25.436Z",
-                        "updatedAt": "2024-01-01T15:53:02.088Z"
+                        "createdAt": "2024-01-13T15:44:54.922Z",
+                        "updatedAt": "2024-01-13T15:44:54.922Z"
                       }
                     },
                     {
-                      "id": 9,
+                      "id": 15,
                       "attributes": {
-                        "name": "road.jpg",
-                        "alternativeText": "road",
+                        "name": "aluno6.webp",
+                        "alternativeText": null,
                         "caption": null,
-                        "width": 240,
-                        "height": 360,
+                        "width": 1080,
+                        "height": 1250,
                         "formats": {
-                          "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167564/thumbnail_road_fae120670f.jpg",
-                            "hash": "thumbnail_road_fae120670f",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_road.jpg",
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/large_aluno6_96c3233783.webp",
+                            "hash": "large_aluno6_96c3233783",
+                            "mime": "image/webp",
+                            "name": "large_aluno6.webp",
                             "path": null,
-                            "size": 3.04,
-                            "width": 104,
+                            "size": 62.6,
+                            "width": 864,
+                            "height": 1000,
+                            "provider_metadata": {
+                              "public_id": "large_aluno6_96c3233783",
+                              "resource_type": "image"
+                            }
+                          },
+                          "small": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno6_96c3233783.webp",
+                            "hash": "small_aluno6_96c3233783",
+                            "mime": "image/webp",
+                            "name": "small_aluno6.webp",
+                            "path": null,
+                            "size": 24.46,
+                            "width": 432,
+                            "height": 500,
+                            "provider_metadata": {
+                              "public_id": "small_aluno6_96c3233783",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/medium_aluno6_96c3233783.webp",
+                            "hash": "medium_aluno6_96c3233783",
+                            "mime": "image/webp",
+                            "name": "medium_aluno6.webp",
+                            "path": null,
+                            "size": 43.85,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno6_96c3233783",
+                              "resource_type": "image"
+                            }
+                          },
+                          "thumbnail": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno6_96c3233783.webp",
+                            "hash": "thumbnail_aluno6_96c3233783",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno6.webp",
+                            "path": null,
+                            "size": 3.74,
+                            "width": 135,
                             "height": 156,
                             "provider_metadata": {
-                              "public_id": "thumbnail_road_fae120670f",
+                              "public_id": "thumbnail_aluno6_96c3233783",
                               "resource_type": "image"
                             }
                           }
                         },
-                        "hash": "road_fae120670f",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 14.59,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167565/road_fae120670f.jpg",
+                        "hash": "aluno6_96c3233783",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 99.5,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno6_96c3233783.webp",
                         "previewUrl": null,
                         "provider": "cloudinary",
                         "provider_metadata": {
-                          "public_id": "road_fae120670f",
+                          "public_id": "aluno6_96c3233783",
                           "resource_type": "image"
                         },
-                        "createdAt": "2023-12-10T00:19:26.074Z",
-                        "updatedAt": "2024-01-01T15:52:46.130Z"
+                        "createdAt": "2024-01-13T15:44:54.612Z",
+                        "updatedAt": "2024-01-13T15:44:54.612Z"
                       }
                     },
                     {
-                      "id": 10,
+                      "id": 11,
                       "attributes": {
-                        "name": "audi.jpg",
-                        "alternativeText": "audi",
+                        "name": "aluno4.webp",
+                        "alternativeText": null,
                         "caption": null,
-                        "width": 360,
-                        "height": 360,
+                        "width": 1080,
+                        "height": 1250,
                         "formats": {
-                          "thumbnail": {
-                            "ext": ".jpg",
-                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167565/thumbnail_audi_ca65926b59.jpg",
-                            "hash": "thumbnail_audi_ca65926b59",
-                            "mime": "image/jpeg",
-                            "name": "thumbnail_audi.jpg",
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/large_aluno4_2c784a9eca.webp",
+                            "hash": "large_aluno4_2c784a9eca",
+                            "mime": "image/webp",
+                            "name": "large_aluno4.webp",
                             "path": null,
-                            "size": 8.69,
-                            "width": 156,
+                            "size": 22.83,
+                            "width": 864,
+                            "height": 1000,
+                            "provider_metadata": {
+                              "public_id": "large_aluno4_2c784a9eca",
+                              "resource_type": "image"
+                            }
+                          },
+                          "small": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno4_2c784a9eca.webp",
+                            "hash": "small_aluno4_2c784a9eca",
+                            "mime": "image/webp",
+                            "name": "small_aluno4.webp",
+                            "path": null,
+                            "size": 11.73,
+                            "width": 432,
+                            "height": 500,
+                            "provider_metadata": {
+                              "public_id": "small_aluno4_2c784a9eca",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/medium_aluno4_2c784a9eca.webp",
+                            "hash": "medium_aluno4_2c784a9eca",
+                            "mime": "image/webp",
+                            "name": "medium_aluno4.webp",
+                            "path": null,
+                            "size": 17.64,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno4_2c784a9eca",
+                              "resource_type": "image"
+                            }
+                          },
+                          "thumbnail": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno4_2c784a9eca.webp",
+                            "hash": "thumbnail_aluno4_2c784a9eca",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno4.webp",
+                            "path": null,
+                            "size": 2.57,
+                            "width": 135,
                             "height": 156,
                             "provider_metadata": {
-                              "public_id": "thumbnail_audi_ca65926b59",
+                              "public_id": "thumbnail_aluno4_2c784a9eca",
                               "resource_type": "image"
                             }
                           }
                         },
-                        "hash": "audi_ca65926b59",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 45.4,
-                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702167565/audi_ca65926b59.jpg",
+                        "hash": "aluno4_2c784a9eca",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 31.03,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno4_2c784a9eca.webp",
                         "previewUrl": null,
                         "provider": "cloudinary",
                         "provider_metadata": {
-                          "public_id": "audi_ca65926b59",
+                          "public_id": "aluno4_2c784a9eca",
                           "resource_type": "image"
                         },
-                        "createdAt": "2023-12-10T00:19:28.473Z",
-                        "updatedAt": "2024-01-01T15:52:54.138Z"
+                        "createdAt": "2024-01-13T15:44:53.939Z",
+                        "updatedAt": "2024-01-13T15:44:53.939Z"
+                      }
+                    },
+                    {
+                      "id": 12,
+                      "attributes": {
+                        "name": "aluno1.webp",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1080,
+                        "height": 1250,
+                        "formats": {
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/large_aluno1_1d610c5eda.webp",
+                            "hash": "large_aluno1_1d610c5eda",
+                            "mime": "image/webp",
+                            "name": "large_aluno1.webp",
+                            "path": null,
+                            "size": 50.29,
+                            "width": 864,
+                            "height": 1000,
+                            "provider_metadata": {
+                              "public_id": "large_aluno1_1d610c5eda",
+                              "resource_type": "image"
+                            }
+                          },
+                          "small": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno1_1d610c5eda.webp",
+                            "hash": "small_aluno1_1d610c5eda",
+                            "mime": "image/webp",
+                            "name": "small_aluno1.webp",
+                            "path": null,
+                            "size": 22,
+                            "width": 432,
+                            "height": 500,
+                            "provider_metadata": {
+                              "public_id": "small_aluno1_1d610c5eda",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/medium_aluno1_1d610c5eda.webp",
+                            "hash": "medium_aluno1_1d610c5eda",
+                            "mime": "image/webp",
+                            "name": "medium_aluno1.webp",
+                            "path": null,
+                            "size": 37.04,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno1_1d610c5eda",
+                              "resource_type": "image"
+                            }
+                          },
+                          "thumbnail": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno1_1d610c5eda.webp",
+                            "hash": "thumbnail_aluno1_1d610c5eda",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno1.webp",
+                            "path": null,
+                            "size": 3.37,
+                            "width": 135,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_aluno1_1d610c5eda",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "aluno1_1d610c5eda",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 74.67,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno1_1d610c5eda.webp",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "aluno1_1d610c5eda",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2024-01-13T15:44:54.303Z",
+                        "updatedAt": "2024-01-13T15:44:54.303Z"
+                      }
+                    },
+                    {
+                      "id": 13,
+                      "attributes": {
+                        "name": "aluno2.webp",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1080,
+                        "height": 1250,
+                        "formats": {
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160694/large_aluno2_9b57efcdff.webp",
+                            "hash": "large_aluno2_9b57efcdff",
+                            "mime": "image/webp",
+                            "name": "large_aluno2.webp",
+                            "path": null,
+                            "size": 48.04,
+                            "width": 864,
+                            "height": 1000,
+                            "provider_metadata": {
+                              "public_id": "large_aluno2_9b57efcdff",
+                              "resource_type": "image"
+                            }
+                          },
+                          "small": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno2_9b57efcdff.webp",
+                            "hash": "small_aluno2_9b57efcdff",
+                            "mime": "image/webp",
+                            "name": "small_aluno2.webp",
+                            "path": null,
+                            "size": 21.72,
+                            "width": 432,
+                            "height": 500,
+                            "provider_metadata": {
+                              "public_id": "small_aluno2_9b57efcdff",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/medium_aluno2_9b57efcdff.webp",
+                            "hash": "medium_aluno2_9b57efcdff",
+                            "mime": "image/webp",
+                            "name": "medium_aluno2.webp",
+                            "path": null,
+                            "size": 36.4,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno2_9b57efcdff",
+                              "resource_type": "image"
+                            }
+                          },
+                          "thumbnail": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno2_9b57efcdff.webp",
+                            "hash": "thumbnail_aluno2_9b57efcdff",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno2.webp",
+                            "path": null,
+                            "size": 3.73,
+                            "width": 135,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_aluno2_9b57efcdff",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "aluno2_9b57efcdff",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 68.42,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno2_9b57efcdff.webp",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "aluno2_9b57efcdff",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2024-01-13T15:44:54.403Z",
+                        "updatedAt": "2024-01-13T15:44:54.403Z"
+                      }
+                    },
+                    {
+                      "id": 14,
+                      "attributes": {
+                        "name": "aluno3.webp",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1080,
+                        "height": 1250,
+                        "formats": {
+                          "large": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/large_aluno3_61e123d567.webp",
+                            "hash": "large_aluno3_61e123d567",
+                            "mime": "image/webp",
+                            "name": "large_aluno3.webp",
+                            "path": null,
+                            "size": 68.94,
+                            "width": 864,
+                            "height": 1000,
+                            "provider_metadata": {
+                              "public_id": "large_aluno3_61e123d567",
+                              "resource_type": "image"
+                            }
+                          },
+                          "small": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/small_aluno3_61e123d567.webp",
+                            "hash": "small_aluno3_61e123d567",
+                            "mime": "image/webp",
+                            "name": "small_aluno3.webp",
+                            "path": null,
+                            "size": 26.67,
+                            "width": 432,
+                            "height": 500,
+                            "provider_metadata": {
+                              "public_id": "small_aluno3_61e123d567",
+                              "resource_type": "image"
+                            }
+                          },
+                          "medium": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160694/medium_aluno3_61e123d567.webp",
+                            "hash": "medium_aluno3_61e123d567",
+                            "mime": "image/webp",
+                            "name": "medium_aluno3.webp",
+                            "path": null,
+                            "size": 47.02,
+                            "width": 648,
+                            "height": 750,
+                            "provider_metadata": {
+                              "public_id": "medium_aluno3_61e123d567",
+                              "resource_type": "image"
+                            }
+                          },
+                          "thumbnail": {
+                            "ext": ".webp",
+                            "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/thumbnail_aluno3_61e123d567.webp",
+                            "hash": "thumbnail_aluno3_61e123d567",
+                            "mime": "image/webp",
+                            "name": "thumbnail_aluno3.webp",
+                            "path": null,
+                            "size": 4.22,
+                            "width": 135,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_aluno3_61e123d567",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "aluno3_61e123d567",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 112.91,
+                        "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1705160693/aluno3_61e123d567.webp",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "aluno3_61e123d567",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2024-01-13T15:44:54.433Z",
+                        "updatedAt": "2024-01-13T15:44:54.433Z"
                       }
                     }
                   ]
                 }
               }
             ]
+          },
+          {
+            "id": 5,
+            "__component": "section.section-two-columns",
+            "title": "Como Você Acessa o seu Curso?",
+            "description": "Assim que você colocar seus dados e finalizar sua compra, vamos te enviar um e-mail com as instruções de acesso a sua área restrita. Por isso é importante inserir o e-mail correto na hora de finalizar a compra.",
+            "Video": null,
+            "image": {
+              "data": {
+                "id": 19,
+                "attributes": {
+                  "name": "contact.svg",
+                  "alternativeText": null,
+                  "caption": null,
+                  "width": 894,
+                  "height": 448,
+                  "formats": null,
+                  "hash": "contact_edc5539938",
+                  "ext": ".svg",
+                  "mime": "image/svg+xml",
+                  "size": 11.62,
+                  "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706043985/contact_edc5539938.svg",
+                  "previewUrl": null,
+                  "provider": "cloudinary",
+                  "provider_metadata": {
+                    "public_id": "contact_edc5539938",
+                    "resource_type": "image"
+                  },
+                  "createdAt": "2024-01-23T21:06:27.071Z",
+                  "updatedAt": "2024-01-23T21:06:27.071Z"
+                }
+              }
+            },
+            "metada": {
+              "id": 14,
+              "name": "duvidas",
+              "section_id": "duvidas",
+              "background": false
+            }
           }
         ],
         "menu": {
-          "id": 1,
-          "logo_link": "#intro",
-          "logo_text": "Logo",
+          "id": 3,
+          "logo_link": "#",
+          "logo_text": "Marmitas Fitness & Congeladas",
           "logo": {
             "data": {
-              "id": 4,
+              "id": 22,
               "attributes": {
-                "name": "undraw_logo_design_re_gfu6.svg",
+                "name": "marmita03-logo.png",
                 "alternativeText": null,
                 "caption": null,
-                "width": 731,
-                "height": 522,
-                "formats": null,
-                "hash": "undraw_logo_design_re_gfu6_5d2765762e",
-                "ext": ".svg",
-                "mime": "image/svg+xml",
-                "size": 5.68,
-                "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1702166691/undraw_logo_design_re_gfu6_5d2765762e.svg",
+                "width": 500,
+                "height": 500,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706045667/thumbnail_marmita03_logo_523fc3320f.png",
+                    "hash": "thumbnail_marmita03_logo_523fc3320f",
+                    "mime": "image/png",
+                    "name": "thumbnail_marmita03-logo.png",
+                    "path": null,
+                    "size": 12.05,
+                    "width": 156,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_marmita03_logo_523fc3320f",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "marmita03_logo_523fc3320f",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 6.37,
+                "url": "https://res.cloudinary.com/dlsrwvbeo/image/upload/v1706045667/marmita03_logo_523fc3320f.png",
                 "previewUrl": null,
                 "provider": "cloudinary",
                 "provider_metadata": {
-                  "public_id": "undraw_logo_design_re_gfu6_5d2765762e",
+                  "public_id": "marmita03_logo_523fc3320f",
                   "resource_type": "image"
                 },
-                "createdAt": "2023-12-10T00:04:52.922Z",
-                "updatedAt": "2024-01-01T22:24:00.485Z"
+                "createdAt": "2024-01-23T21:34:28.323Z",
+                "updatedAt": "2024-01-23T21:34:28.323Z"
               }
             }
           },
           "menu_links": [
             {
-              "id": 1,
-              "url": "#intro",
-              "link_text": "Intro",
+              "id": 17,
+              "url": "#inicio",
+              "link_text": "Início",
               "open_in_new_tab": false
             },
             {
-              "id": 2,
-              "url": "#top3jobs",
-              "link_text": "Top3",
+              "id": 18,
+              "url": "#sobre",
+              "link_text": "Sobre",
               "open_in_new_tab": false
             },
             {
-              "id": 3,
-              "url": "#description",
-              "link_text": "Descrição",
+              "id": 19,
+              "url": "#conteudo",
+              "link_text": "Conteúdo",
               "open_in_new_tab": false
             },
             {
-              "id": 4,
-              "url": "#gallery",
-              "link_text": "Galeria",
+              "id": 20,
+              "url": "#depoimentos",
+              "link_text": "Depoimentos",
               "open_in_new_tab": false
             },
             {
-              "id": 13,
-              "url": "info-produto",
-              "link_text": "Word + Exel",
+              "id": 21,
+              "url": "#duvidas",
+              "link_text": "Dúvidas",
               "open_in_new_tab": false
             }
           ]

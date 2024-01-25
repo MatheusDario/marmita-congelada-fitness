@@ -1,8 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable @typescript-eslint/no-unused-vars */
-
 import { GridContentProps } from '../components/GridContent';
-import { GridImageElementProps, GridImageProps } from '../components/GridImage';
+import { GridImageProps } from '../components/GridImage';
 import {
   GridSectionElementProps,
   GridSectionProps,
@@ -10,7 +8,6 @@ import {
 import { GridTwoColumnsProps } from '../components/GridTwoColumns';
 import { SectionProps } from '../templates/App';
 
-/* eslint-disable no-unused-vars */
 export const mapSections = (sections = []): SectionProps[] => {
   return sections.map((section) => {
     if (section.__component === 'section.section-two-columns') {
@@ -31,6 +28,7 @@ export const mapSections = (sections = []): SectionProps[] => {
         return mapImageGrid(section);
       }
     }
+
     return section;
   });
 };
@@ -42,12 +40,14 @@ export const mapSectionTwoColumns = (
     __component: component = '',
     title = '',
     description: text = '',
-    image: { data: { attributes: { url: srcimg = '' } = '' } = '' } = '',
+    //image: { data: { attributes: { url: srcimg = '' } = '' } = '' } = '',
     metada: {
       background: $background = false,
       section_id: $sectionid = '',
     } = '',
   } = section;
+
+  const srcimg = section?.image?.data?.attributes?.url || '';
 
   return {
     component,
