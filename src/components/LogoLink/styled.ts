@@ -14,7 +14,7 @@ ${({ theme }) => css`
   }
 
   > img {
-    height: 6rem;
+    height: 7.2rem;
   }
 `}
 `;

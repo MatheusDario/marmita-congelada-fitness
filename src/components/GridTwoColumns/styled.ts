@@ -11,7 +11,7 @@ export const Container = styled.div<Background>`
     display: grid;
     grid-template-columns: 1fr 2fr;
     align-items: center;
-    text-align: justify;
+    //text-align: justify;
     gap: ${theme.spacing.large};
 
     ${Title} {

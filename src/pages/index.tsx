@@ -10,7 +10,7 @@ export const getStaticProps: GetStaticProps<AppProps> = async () => {
   let data = null;
 
   try {
-    data = await loadPages('landing-page');
+    data = await loadPages('marmitas-fitness');
   } catch (e) {
     console.log(e);
   }
