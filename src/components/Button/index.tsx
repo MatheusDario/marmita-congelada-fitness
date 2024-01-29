@@ -5,5 +5,9 @@ export type ButtonProps = {
 };
 
 export const Button = ({ buttonText }: ButtonProps) => {
-  return <Styled.Container>{buttonText}</Styled.Container>;
+  return (
+    <Styled.Container>
+      <Styled.Button>{buttonText}</Styled.Button>
+    </Styled.Container>
+  );
 };
